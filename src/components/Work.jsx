@@ -8,11 +8,11 @@ const data = [
     title: "First Bank Nigeria",
     duration: "July 2025 - Present",
     details:
-      "I am currently a Product Support Officer at First Bank Nigeria, where I specialize in analyzing and cleaning data, spooling and updating reports, and ensuring data accuracy for informed decision-making.My role also involves monitoring non-performing and impaired loan assets to support better decision-making and business performance.",
+      "I am currently a Product Support Officer at First Bank Nigeria, where I specialize in analyzing and cleaning data, spooling and updating reports, and ensuring data accuracy for informed decision-making.My role also involves monitoring non-performing and impaired loan assets to support better decision making and business performance.",
   },
   {
     year: 2025,
-    title: "Nestle",
+    title: "Nestlé",
     duration: "September 2024 - June 2025",
     details:
       "At Nestlé Nigeria, I managed and maintained IT infrastructure including servers, databases, and cloud platforms, while providing technical support for hardware, software, and networking issues. I also optimized automation systems by configuring Rockwell modules, integrating PLC networks, maintaining biometric access systems, and ensuring cybersecurity and system reliability across manufacturing and office environments.",
