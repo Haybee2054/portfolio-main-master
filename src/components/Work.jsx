@@ -8,7 +8,7 @@ const data = [
     title: "First Bank Nigeria",
     duration: "July 2025 - Present",
     details:
-      "I am currently a Product Support Officer at First Bank Nigeria, where I specialize in analyzing and cleaning data, spooling and updating reports, and ensuring data accuracy for informed decision-making.My role also involves monitoring non-performing and impaired loan assets to support better decision making and business performance.",
+      "I am currently a Product Support Officer at First Bank Nigeria, where I specialize in analyzing and cleaning data, spooling and updating reports, and ensuring data accuracy for informed decision making.My role also involves monitoring non-performing and impaired loan assets to support better decision making and business performance.",
   },
   {
     year: 2025,
